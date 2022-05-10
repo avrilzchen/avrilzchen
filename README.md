@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Low Code Platforms.**
 
-- 💬👨‍💻 I'm currently studying Software Engineering at **University of Waterloo.**
+- 💻 I'm currently studying Software Engineering at **University of Waterloo.**
 
 - 📫 How to reach me **avril.chen@uwaterloo.ca**
 
