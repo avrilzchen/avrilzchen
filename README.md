@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
  
  <h1 align="center">Hello 👋, I'm Avril Chen</h1>
 <h3 align="center">I'm a passionate software developer.</h3>
