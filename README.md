@@ -1,1 +1,1 @@
-<h1 align="center">Hello 👋, I'm Avril Chen</h1>
+<h1 align="center">Hello 👋</h1>
